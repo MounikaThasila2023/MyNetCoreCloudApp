@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764457083819",
+    "project_id": "mynetcorecloudapp-ded7c",
+    "storage_bucket": "mynetcorecloudapp-ded7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764457083819:android:b2ebe29e9c07bb105168ee",
+        "android_client_info": {
+          "package_name": "com.example.mynetcorecloudapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa8RyxayrIUPtAjpMeHE-erL2NsnhWBfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
